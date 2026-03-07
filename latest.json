@@ -1,7 +1,6 @@
 {                                                                                                                                                                                                                                                                                                                         
-      "version": "1.0.1",                                                                                                                                                                                                                                                                                                   
-      "releaseNotes": "Initial release",                                                                                                                                                                                                                                                                                    
-      "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v1.0.0/BaringaSoftPulse-1.0.0.exe",
-      "linuxDownloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v1.0.0/BaringaSoftPulse-1.0.0.AppImage"
+    "version": "1.0.1",                                           
+    "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v1.0.1/PULSE.exe",
+    "releaseNotes": "Testing update workflow."
   }
 
