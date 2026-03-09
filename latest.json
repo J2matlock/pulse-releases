@@ -1,7 +1,7 @@
 {
-    "version": "1.0.7",                                                                                                                                                                                                                                                                                                     
-    "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v1.0.7/PULSE.exe",
-    "releaseNotes": "Fixed bug cutting off menus at low resolution"
+    "version": "1.0.8",                                                                                                                                                                                                                                                                                                     
+    "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v1.0.8/PULSE.exe",
+    "releaseNotes": "UX polish merge + context menu fix + version bump to 1.0.8"
   }
 
 
