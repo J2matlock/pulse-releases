@@ -1,7 +1,7 @@
 {
-    "version": "1.1.1",                                                                                                                                                                                                                                                                                                     
-    "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v1.1.1/PULSE.exe",
-    "releaseNotes": "Bug fixes redux"
+    "version": "1.1.2",                                                                                                                                                                                                                                                                                                     
+    "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v1.1.2/PULSE.exe",
+    "releaseNotes": "Bug fixes - caseload grid menus get cut if low resolution"
   }
 
 
