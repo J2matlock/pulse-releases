@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0",
-  "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v2.0.0/PULSE.exe",
+  "version": "2.0.1",
+  "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v2.0.1/PULSE.exe",
   "downloads": {
-    "win": "https://github.com/J2matlock/pulse-releases/releases/download/v2.0.0/PULSE.exe",
-    "linux": "https://github.com/J2matlock/pulse-releases/releases/download/v2.0.0/BaringaSoftPulse-2.0.0.AppImage"
+    "win": "https://github.com/J2matlock/pulse-releases/releases/download/v2.0.1/PULSE.exe",
+    "linux": "https://github.com/J2matlock/pulse-releases/releases/download/v2.0.1/BaringaSoftPulse-2.0.1.AppImage"
   },
-  "releaseNotes": "Pulse is now free and open source: no trial, no license key, no limits. Track anything with a deadline, with 38 ready-made starters, a calendar, boards, forms, files, reports and reminders. Windows may ask you to confirm the first time (More info, then Run anyway)."
+  "releaseNotes": "New example: Tree service. Customers, jobs on a board from estimate to done, estimate follow-ups, equipment service by engine hours and crew certifications. Pulse is free and open source. Windows may ask you to confirm the first time (More info, then Run anyway)."
 }
