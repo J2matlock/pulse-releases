@@ -1,9 +1,9 @@
 {
-  "version": "2.1.0",
-  "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v2.1.0/PULSE.exe",
+  "version": "2.1.1",
+  "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v2.1.1/PULSE.exe",
   "downloads": {
-    "win": "https://github.com/J2matlock/pulse-releases/releases/download/v2.1.0/PULSE.exe",
-    "linux": "https://github.com/J2matlock/pulse-releases/releases/download/v2.1.0/BaringaSoftPulse-2.1.0.AppImage"
+    "win": "https://github.com/J2matlock/pulse-releases/releases/download/v2.1.1/PULSE.exe",
+    "linux": "https://github.com/J2matlock/pulse-releases/releases/download/v2.1.1/BaringaSoftPulse-2.1.1.AppImage"
   },
-  "releaseNotes": "Twelve new examples to start from: home services, tax preparer, real estate, speech/OT/PT, victim advocate, subcontractor insurance, horse barn, job search, home maintenance, family health, driving school and volunteer manager. Fixed-date deadlines now count when you finish a little early. Windows may ask you to confirm the first time (More info, then Run anyway)."
+  "releaseNotes": "Easier reports: start from a common report, sensible starting choices, groups in their own order, readable dates, and Pulse asks before deleting or throwing away changes. Windows may ask you to confirm the first time (More info, then Run anyway)."
 }
