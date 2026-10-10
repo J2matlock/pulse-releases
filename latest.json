@@ -1,9 +1,9 @@
 {
-  "version": "2.1.1",
-  "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v2.1.1/PULSE.exe",
+  "version": "2.2.0",
+  "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v2.2.0/PULSE.exe",
   "downloads": {
-    "win": "https://github.com/J2matlock/pulse-releases/releases/download/v2.1.1/PULSE.exe",
-    "linux": "https://github.com/J2matlock/pulse-releases/releases/download/v2.1.1/BaringaSoftPulse-2.1.1.AppImage"
+    "win": "https://github.com/J2matlock/pulse-releases/releases/download/v2.2.0/PULSE.exe",
+    "linux": "https://github.com/J2matlock/pulse-releases/releases/download/v2.2.0/BaringaSoftPulse-2.2.0.AppImage"
   },
-  "releaseNotes": "Easier reports: start from a common report, sensible starting choices, groups in their own order, readable dates, and Pulse asks before deleting or throwing away changes. Windows may ask you to confirm the first time (More info, then Run anyway)."
+  "releaseNotes": "Reports you can understand: a Reports home page with your reports as cards, ready-made reports with every example, sample data with a year of history, bar charts, and a plain sentence saying what each report counts. Windows may ask you to confirm the first time (More info, then Run anyway)."
 }
