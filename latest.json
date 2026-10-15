@@ -1,9 +1,9 @@
 {
-  "version": "2.6.0",
-  "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v2.6.0/PULSE.exe",
+  "version": "2.7.0",
+  "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v2.7.0/PULSE.exe",
   "downloads": {
-    "win": "https://github.com/J2matlock/pulse-releases/releases/download/v2.6.0/PULSE.exe",
-    "linux": "https://github.com/J2matlock/pulse-releases/releases/download/v2.6.0/BaringaSoftPulse-2.6.0.AppImage"
+    "win": "https://github.com/J2matlock/pulse-releases/releases/download/v2.7.0/PULSE.exe",
+    "linux": "https://github.com/J2matlock/pulse-releases/releases/download/v2.7.0/BaringaSoftPulse-2.7.0.AppImage"
   },
-  "releaseNotes": "A more flexible Calendar: add events that aren't tied to anyone, choose which deadlines show, and click a day to add an event, a deadline or a task. Deadline columns can show only the date. Windows may ask you to confirm the first time (More info, then Run anyway)."
+  "releaseNotes": "Safer data (dates are never quietly erased, half-written notes survive closing the window), an import that shows its guesses first, a dashboard that says what to do next and prints what you see, Undo instead of questions, and easier for everyone to use. Windows may ask you to confirm the first time (More info, then Run anyway)."
 }
