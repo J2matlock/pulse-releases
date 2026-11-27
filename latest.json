@@ -1,9 +1,9 @@
 {
-  "version": "2.7.0",
-  "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v2.7.0/PULSE.exe",
+  "version": "2.8.0",
+  "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v2.8.0/PULSE.exe",
   "downloads": {
-    "win": "https://github.com/J2matlock/pulse-releases/releases/download/v2.7.0/PULSE.exe",
-    "linux": "https://github.com/J2matlock/pulse-releases/releases/download/v2.7.0/BaringaSoftPulse-2.7.0.AppImage"
+    "win": "https://github.com/J2matlock/pulse-releases/releases/download/v2.8.0/PULSE.exe",
+    "linux": "https://github.com/J2matlock/pulse-releases/releases/download/v2.8.0/BaringaSoftPulse-2.8.0.AppImage"
   },
-  "releaseNotes": "Safer data (dates are never quietly erased, half-written notes survive closing the window), an import that shows its guesses first, a dashboard that says what to do next and prints what you see, Undo instead of questions, and easier for everyone to use. Windows may ask you to confirm the first time (More info, then Run anyway)."
+  "releaseNotes": "A new ready-made example for self-storage facilities: units on a board from vacant to rented, renters, a payment log, step-by-step reminders when rent is late, and what the property itself needs. Windows may ask you to confirm the first time (More info, then Run anyway)."
 }
