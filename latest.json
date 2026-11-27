@@ -1,9 +1,9 @@
 {
-  "version": "2.8.0",
-  "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v2.8.0/PULSE.exe",
+  "version": "2.9.0",
+  "downloadUrl": "https://github.com/J2matlock/pulse-releases/releases/download/v2.9.0/PULSE.exe",
   "downloads": {
-    "win": "https://github.com/J2matlock/pulse-releases/releases/download/v2.8.0/PULSE.exe",
-    "linux": "https://github.com/J2matlock/pulse-releases/releases/download/v2.8.0/BaringaSoftPulse-2.8.0.AppImage"
+    "win": "https://github.com/J2matlock/pulse-releases/releases/download/v2.9.0/PULSE.exe",
+    "linux": "https://github.com/J2matlock/pulse-releases/releases/download/v2.9.0/BaringaSoftPulse-2.9.0.AppImage"
   },
-  "releaseNotes": "A new ready-made example for self-storage facilities: units on a board from vacant to rented, renters, a payment log, step-by-step reminders when rent is late, and what the property itself needs. Windows may ask you to confirm the first time (More info, then Run anyway)."
+  "releaseNotes": "A form can now also update a linked record, so the self-storage Take a payment form adds the payment, moves Paid through forward and lowers the balance in one step. Letters follow links, forms can be started from a record's page, and the self-storage example gains past rentals, a waiting list, vehicles and more reports. Windows may ask you to confirm the first time (More info, then Run anyway)."
 }
